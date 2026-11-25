@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://primeshieldchemical174-max.github.io/prime-shield/sitemap.xml
